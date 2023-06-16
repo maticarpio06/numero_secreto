@@ -1,0 +1,12 @@
+{
+  "name": "numero_secreto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "adivina_numero_secreto.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
